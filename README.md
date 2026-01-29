@@ -424,7 +424,6 @@ Entwickelt von **Marcus Witt**
 
 ## 📞 Support
 
-- 📧 **Email**: support@nas-cloud.local
 - 🐛 **Issues**: [GitHub Issues](https://github.com/marcuswitt/modular-nas/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/marcuswitt/modular-nas/discussions)
 
