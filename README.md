@@ -16,7 +16,7 @@
 
 ## 📖 Über das Projekt
 
-NAS Cloud ist ein vollständig modulares Network Attached Storage (NAS) System für Debian 12, das als private Cloud-Lösung konzipiert wurde. Mit einem modernen Web-Interface, GitHub-basiertem Modul-Shop und flexibler Plugin-Architektur bietet es eine einfache Möglichkeit, eigene Storage-Lösungen zu erstellen und zu erweitern. Ich fange gerade erst an mit der Entwicklung, das Projekt kann fehler oder Systemausfälle enthalten. 
+NAS Cloud ist ein vollständig modulares Network Attached Storage (NAS) System für Debian 12, das als private Cloud-Lösung konzipiert wurde. Mit einem modernen Web-Interface, GitHub-basiertem Modul-Shop und flexibler Plugin-Architektur bietet es eine einfache Möglichkeit, eigene Storage-Lösungen zu erstellen und zu erweitern. Ich fange gerade erst an mit der Entwicklung, das Projekt kann fehler oder Systemausfälle enthalten. Daher ist es definitiv eine Alpha Version
 
 ### ✨ Highlights
 
