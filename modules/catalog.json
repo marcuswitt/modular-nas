@@ -1,86 +1,22 @@
 {
-  "version": "1.2",
+  "version": "2.0",
   "updated": "2026-01-29",
   "modules": [
     {
       "id": "system-settings",
       "name": "System Settings",
-      "version": "1.2.0",
-      "description": "Systemweite Einstellungen mit erweiterten Statistiken, Updates, Dienste und Live-Ressourcen-Monitoring",
+      "version": "2.0.0",
+      "description": "System-Monitoring und Verwaltung",
       "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.2.0/system-settings-v1.2.0.tar.gz"
+      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v2.0.0/system-settings.tar.gz"
     },
     {
       "id": "workflow-optimizer",
       "name": "Workflow Optimizer",
-      "version": "1.1.0",
-      "description": "Automatisiert und optimiert System-Workflows wie Backups, Cleanup und Monitoring",
+      "version": "2.0.0",
+      "description": "Task-Automation und Workflows",
       "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.1.0/workflow-optimizer-v1.1.0.tar.gz"
-    },
-    {
-      "id": "storage-stats",
-      "name": "Storage Statistics",
-      "version": "1.0.0",
-      "description": "Zeigt Speicherplatz-Statistiken und Nutzung an",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/storage-stats.tar.gz"
-    },
-    {
-      "id": "file-manager",
-      "name": "File Manager",
-      "version": "1.0.0",
-      "description": "Erweiterte Dateiverwaltung mit Ordnerstruktur",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/file-manager.tar.gz"
-    },
-    {
-      "id": "user-settings",
-      "name": "User Settings",
-      "version": "1.0.0",
-      "description": "Benutzereinstellungen und Profilverwaltung",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/user-settings.tar.gz"
-    },
-    {
-      "id": "disk-tools",
-      "name": "Disk Tools (SMART)",
-      "version": "1.0.0",
-      "description": "Festplatten-Überwachung mit S.M.A.R.T., Gesundheits-Status und Diagnose",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/disk-tools.tar.gz"
-    },
-    {
-      "id": "network-settings",
-      "name": "Network Settings",
-      "version": "1.0.0",
-      "description": "Verwaltet Netzwerk-Einstellungen, IP-Konfiguration, DNS und Firewall",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/network-settings.tar.gz"
-    },
-    {
-      "id": "raid-manager",
-      "name": "RAID Manager",
-      "version": "1.0.0",
-      "description": "RAID-Verwaltung mit mdadm: Erstellen, Überwachen und Verwalten von RAID-Arrays",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/raid-manager.tar.gz"
-    },
-    {
-      "id": "mergefs-manager",
-      "name": "MergeFS Manager",
-      "version": "1.0.0",
-      "description": "MergeFS-Verwaltung: Pools erstellen, Festplatten zusammenführen und verwalten",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/mergefs-manager.tar.gz"
-    },
-    {
-      "id": "emby-server",
-      "name": "Emby Media Server",
-      "version": "1.0.0",
-      "description": "Emby Media Server Integration: Installation, Konfiguration und Verwaltung",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/emby-server.tar.gz"
+      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v2.0.0/workflow-optimizer.tar.gz"
     }
   ]
 }
