@@ -1,7 +1,23 @@
 {
-  "version": "1.0",
-  "updated": "2026-01-28",
+  "version": "1.2",
+  "updated": "2026-01-29",
   "modules": [
+    {
+      "id": "system-settings",
+      "name": "System Settings",
+      "version": "1.2.0",
+      "description": "Systemweite Einstellungen mit erweiterten Statistiken, Updates, Dienste und Live-Ressourcen-Monitoring",
+      "author": "NAS Cloud Team",
+      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.2.0/system-settings-v1.2.0.tar.gz"
+    },
+    {
+      "id": "workflow-optimizer",
+      "name": "Workflow Optimizer",
+      "version": "1.1.0",
+      "description": "Automatisiert und optimiert System-Workflows wie Backups, Cleanup und Monitoring",
+      "author": "NAS Cloud Team",
+      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.1.0/workflow-optimizer-v1.1.0.tar.gz"
+    },
     {
       "id": "storage-stats",
       "name": "Storage Statistics",
@@ -27,12 +43,12 @@
       "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/user-settings.tar.gz"
     },
     {
-      "id": "workflow-optimizer",
-      "name": "Workflow Optimizer",
+      "id": "disk-tools",
+      "name": "Disk Tools (SMART)",
       "version": "1.0.0",
-      "description": "Automatisiert und optimiert System-Workflows wie Backups, Cleanup und Monitoring",
+      "description": "Festplatten-Überwachung mit S.M.A.R.T., Gesundheits-Status und Diagnose",
       "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/workflow-optimizer.tar.gz"
+      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/disk-tools.tar.gz"
     },
     {
       "id": "network-settings",
@@ -41,22 +57,6 @@
       "description": "Verwaltet Netzwerk-Einstellungen, IP-Konfiguration, DNS und Firewall",
       "author": "NAS Cloud Team",
       "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/network-settings.tar.gz"
-    },
-    {
-      "id": "system-settings",
-      "name": "System Settings",
-      "version": "1.0.0",
-      "description": "Systemweite Einstellungen, Updates, Dienste und Ressourcen-Verwaltung",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/system-settings.tar.gz"
-    },
-    {
-      "id": "disk-tools",
-      "name": "Disk Tools (SMART)",
-      "version": "1.0.0",
-      "description": "Festplatten-Überwachung mit S.M.A.R.T., Gesundheits-Status und Diagnose",
-      "author": "NAS Cloud Team",
-      "download_url": "https://github.com/marcuswitt/modular-nas/releases/download/v1.0.0/disk-tools.tar.gz"
     },
     {
       "id": "raid-manager",
